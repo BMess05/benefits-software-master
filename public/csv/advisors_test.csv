@@ -1,0 +1,291 @@
+AdvisorFirstName,AdvisorLastName,company_name,workshop_code,AdvisorAddress,DefaultDisclaimer [0],IsActive [1],"SuppressConfidential [0],"
+John,Ripley,Smarter Retirement Solutions,AEB,"601 S Harbour Island Blvd, Suite 109
+Tampa, FL  33602
+800.309.7830 - Phone
+727.205.0255 - Fax",yes,yes,no
+Alan,Busch,Smarter Retirement Solutions,AEB,"601 S Harbour Island Blvd, Suite 109
+Tampa, FL  33602
+800.309.7830 - Phone & SMS
+727.205.0255 - Fax",yes,yes,no
+Jeffrey,Barnard,Barnard Financial Group,BFG,"Jeffrey Barnard
+555 Sun Valley Drive, L-2
+Roswell, GA 30076
+770-992-1119",yes,yes,no
+Justin,Klein,"Capital Asset Management, Inc.",CAM,"Justin Klein
+3636 N. Roff Avenue
+Oklahoma City, OK 73112",yes,yes,no
+Frank,Dimicelli,Compass Financial Group,CFG,"Frank & Brandon Dimicelli
+8940 Fourwinds Drive, Suite #311
+Windcrest, TX 78239
+(210)783-0042",yes,yes,no
+Brandon,Dimicelli,Compass Financial Group,CFG,"Frank & Brandon Dimicelli
+8940 Fourwinds Drive, Suite #311
+Windcrest, TX 78239
+(210)783-0042",yes,yes,no
+Greg,Castle,Castle Financial Solutions Group,CFSG,"Greg Castle
+Independent Financial Advisor
+1406 Parilla Circle
+Trinity, FL 34655
+Greg@CastleFSG.com
+813-722-0020",yes,yes,no
+Richard,"Keppler, FRC, IAR","Conservative Investing Concepts, PLLC",CIC,"Richard Keppler, FRC, IAR
+360-632-9954",yes,yes,no
+Clint,Connell,Smarter Retirement Solutions,CLC,Clint Connell,yes,yes,no
+Christopher,Drew,Drew Capital Group,DCG,"Christopher Drew
+16021 N Florida Ave
+Lutz, FL 33549 
+(813) 820-0069 
+chris@drewcapital.com""",yes,yes,no
+Austin,Ferlita,Drew Capital Group,DCG,"Austin Ferlita
+16021 N Florida Ave
+Lutz, FL 33549 
+(813) 820-0069 
+austin@drewcapital.com",yes,yes,no
+Tim,Estes,"Estes Financial Services, Inc.",EF,"Tim Estes
+2501 Parkview Dr., Suite 228
+Fort Worth, TX 76102
+
+Office (817) 444-8402
+Fax    (817) 444-1351
+
+www.estesfinancial.net",yes,yes,no
+Britta,Reyes,"Estes Financial Services, Inc.",EF,"Britta Reyes
+2501 Parkview Dr., Suite 228
+Fort Worth, TX 76102
+
+Office (817) 444-8402
+Fax    (817) 444-1351
+
+www.estesfinancial.net",yes,yes,no
+Cory,Chapman,EFC Wealth Management Firm,EFC,Cory Chapman,yes,yes,no
+Candace,Moore,Federal Employee Resources,FERC,"Candace Moore
+cmoore@ferdirect.com
+662-316-2030",yes,yes,no
+Dale,McGregor,Federal Employee Resources,FERD,"Dale McGregor
+dmcgregor@ferdirect.com
+501-743-9570 Phone
+501-286-6280 Fax",yes,yes,no
+Jason,Oliver,Federal Employee Resources,FERJ,"Jason Oliver
+joliver@ferdirect.com
+(832) 771-2525 – direct
+(936) 622-6777 – fax",yes,yes,no
+Lisa,Williamson,Federal Employee Resources,FERL,"Lisa Williamson
+lwilliamson@ferdirect.com",yes,yes,no
+Les,McGregor,Federal Employee Resources,FERM,"Les McGregor
+Federal Benefits Specialist 
+lesmcgregor@ferdirect.com
+501.743.9572",yes,yes,no
+David,Gagnon,First Financial Planners,FFP,David Gagnon,yes,yes,no
+Marie,Seabury,Freedom Point Financial,FP,"Marie Seabury, CFP ®
+10808 S. River Front Pkwy, Suite 3094
+South Jordan, UT 84095
+
+Office: 801-984-6724
+marie@freedompoint.net
+www.freedompoint.net",yes,yes,no
+Robert,Sandberg,Freedom Point Financial,FP,"Robert Sandberg
+10808 S. River Front Pkwy, Suite 375
+South Jordan, UT 84095
+
+Office: (801) 984-8066
+rob@freedompoint.net
+www.freedompoint.net",yes,yes,no
+Craig,Shepard,Federal Retirement Solutions LLC,FRS,"Craig Shepard
+550 Cochituate Road
+Framingham, MA 01701
+
+craig@fedgroupllc.com",yes,yes,no
+Rob,Bettermann,Capstone Financial Planning,FRS,"Rob Bettermann
+www.capstoneplan.com
+rob@capstoneplan.com",yes,yes,no
+Jesse,Grutz,Grutz Financial,GF,"Grutz Financial
+615 B Milwaukee St
+Delafield, WI 53018",yes,yes,no
+Dylan,Greenberg,Greenberg Financial Group,GFG,"Dylan Greenberg
+Financial Advisor
+4511 N. Campbell Ave.
+Tucson, AZ 85718
+520-544-4909
+dylan@greenbergfinancial.com",yes,yes,no
+Russell,Pierce,Griggers Wealth Management,GWM,"Russell Pierce
+314 Corder Road
+Warner Robins, GA  31088
+
+Phone: (478) 225-6750
+Fax: (478) 225-6740 
+
+griggerswealth.com",yes,yes,no
+William,Griggers,Griggers Wealth Management,GWM,"William Griggers
+314 Corder Road
+Warner Robins, GA  31088
+
+Phone: (478) 225-6750
+Fax: (478) 225-6740 
+
+griggerswealth.com",yes,yes,no
+Lafayette,Huston,Griggers Wealth Management,GWM,"Lafayette Huston
+314 Corder Road
+Warner Robins, GA  31088
+
+Phone: (478) 225-6750
+Fax: (478) 225-6740 
+
+griggerswealth.com",yes,yes,no
+Louis,DeVicaris,Griggers Wealth Management,GWM,"Louis DeVicaris
+314 Corder Road
+Warner Robins, GA  31088
+
+Phone: (478) 225-6750
+Fax: (478) 225-6740 
+
+griggerswealth.com",yes,yes,no
+Patricia,Lavy,Heritage Financial Resources,HFR,"Pat Lavy & Shawn Hicks
+4031 Colonel Glenn Hwy, Suite 131
+Beavercreek, OH 45431
+Phone: (937) 570-3003
+Website: heritagefinancialus.com",yes,yes,no
+Shawn,Hicks,Heritage Financial Resources,HFR,"Pat Lavy & Shawn Hicks
+4031 Colonel Glenn Hwy, Suite 131
+Beavercreek, OH 45431
+Phone: (937) 570-3003
+Website: heritagefinancialus.com",yes,yes,no
+Derek,Huff,Independent Retirement Professionals,IRP,Derek Huff,yes,yes,no
+Jeffery,Bettermann,Thorngate Financial,JAB,"Jeffery Betterman
+Financial Advisor 
+jeff@thorngatefinancial.com",yes,yes,no
+Jo,Thibault,Jo Ann Thibault & Associates,JAT,"Jo Ann Thibault
+457 Mill Pond Rd.
+Colchester, VT 05446
+
+Phone: (802)662-4923
+Cell: (802)355-7564
+Fax: (802)864-0331
+
+Website: joannthibault.com",yes,yes,no
+Jonathan,Busch,Smarter Retirement Solutions,JFB,"1635 Foxtrail Dr. Suite 355
+Loveland, CO 80538
+
+Office & SMS: 800-309-7830
+Fax: 727-255-0255",yes,yes,no
+Jewels,Harris,J Harris Financial,JHF,"Jewels Harris
+1305 Ashleybrook Lane
+Winston Salem, NC 27103
+jewels@jharris-financial.com
+336-724-2562",yes,yes,no
+Joseph,Voellm,JL Smith Group,JLS,"Joseph Voellm  
+36610 Detroit Rd
+Avon, OH 44011
+joseph@jlsmithgroup.com",yes,yes,no
+Bryan,Bibbo,JL Smith Group,JLS,"Bryan Bibbo
+36610 Detroit Rd
+Avon, OH 44011
+bryan@jlsmithgroup.com",yes,yes,no
+John,McConnell,McConnell Financial,JM,John McConnell ,yes,yes,no
+Kirk,Brownfield,Phase Financial,KDB,"Kirk & Jesse Brownfield
+812-342-0882",yes,yes,no
+Jesse,Brownfield,Phase Financial,KDB,"Kirk & Jesse Brownfield
+812-342-0882",yes,yes,no
+Cecil,Denton,Kairos Financial Management,KFM,"Cecil Denton
+126 N Court Street
+Florence, AL 35630",yes,yes,no
+Mike,Ausherman,Legacy Capital Planners,LCP,"Mike Ausherman
+12410 Milestone Center Dr.
+Germantown, MD 20876
+
+Tel: 240-395-1060
+Fax: 800-661-1948",yes,yes,no
+Todd,Baker,Legacy Capital Planners,LCP,"Todd Baker
+12410 Milestone Center Dr.
+Germantown, MD 20876
+
+Tel: 240-395-1060
+Fax: 800-661-1948",yes,yes,no
+Patrick ,Sandner,"Landing Financial Group, Inc.",LFG,"Patrick Sandner
+561-229-0009",yes,yes,no
+Tami,Aloisa,"Life Transitions Planning, LLC",LTP,"Tami Aloisa
+tami.aloisa@ltplanners.com
+(757) 689-4896",yes,yes,no
+Dan,Cronin,Lifestyle Wealth Management,LWM,"Dan Cronin
+Founder & Wealth Advisor
+2175 NW Raleigh Street, Suite 110
+Portland, OR 97210
+(503) 941-8792 ",yes,yes,no
+Stephen,Caruso,Laurel Wealth Solutions,LWS,"Stephen Caruso
+(917) 656-6330",yes,yes,no
+Paul,Lee,Mirae Asset Wealth Management USA,MAWM,"Paul Lee
+3701 Wilshire Blvd., Suite 101 
+Los Angeles, CA 90010",yes,yes,no
+Rick,Miller,Miller Investment Management,MIM,"Rick Miller
+(703) 791-3743",yes,yes,no
+Mark,McGregor,McGregor Wealth Management,MWM,"Mark McGregor
+757 Maleta Lane, Suite 204
+Castle Rock, CO 80108
+mark@mgswealth.com
+(303) 681-0113",yes,yes,no
+Gary,Wedge,NewAge Advisors,NAA,"Gary Wedge
+2000 Town Center, Suite 1900
+Southfield, MI 48075
+
+517-618-9558
+www.newageadvisors.com",yes,yes,no
+Matt,Hausman,Old Security Group,OSG,"Matt Hausman
+1055 Andrew Dr., Suite D 
+West Chester, PA 19380",yes,yes,no
+Mike,Mattison,PlanVest Federal,PVF,"Michael C. Mattison
+6 Montgomery Village Ave., Suite 510
+Gaithersburg, MD 20879
+
+(Direct) 301-938-4600 
+(Fax) 301-977-7124",yes,yes,no
+Anna,Jeter,Peregrine Wealth Strategies,PWS,"Anna Jeter
+2230 Cottondale Ln, Suite 4
+Little Rock, AR 72202",yes,yes,no
+Steve,Duncan,"Secure Benefit Services, LLC",SBS,"Steve Duncan
+550 S Watters Road, Suite 293
+Allen, Texas 75013
+
+Office (214) 770-5400
+Fax  (214) 594-8638 ",yes,yes,no
+Alden,Burnett,Shankland Financial Advisors,SFA,"Alden Burnett III
+Investment Advisor Representative
+Cell: 708-692-2623
+amburnettiii@gmail.com",yes,yes,no
+Daryl,Shankland,Shankland Financial Advisors,SFA2,"Daryl Shankland
+PO Box 1417 
+Cashiers, NC 28717
+(217) 494-0439",yes,yes,no
+Matthew,McMahon,"Strategic Financial Planning, LLC",SFP,"Matt McMahon, CFP ®
+Office: (928) 212-8000
+Cell: (602) 487-7109",yes,yes,no
+Colin,Hughes,"Strategic Financial Planning, LLC",SFP,"Colin Hughes, CFP ®
+Office: (928) 212-8000
+Cell: (928) 600-2510",yes,yes,no
+Seamus,Caulfield,Shamrock Financial Services,SFS,"Seamus Caulfield
+718-541-3080",yes,yes,no
+John,Sciancalepore,"The Investment Center, Inc.",TIC,"John L. Sciancalepore, ChFC®, MBA
+Licensed Principal",yes,yes,no
+Terry,Thomason,Smarter Retirement Solutions,TWT,"Terry Thomason
+1155 Kelly Johnson Blvd, Suite 111
+Colorado Springs, CO 80920
+
+Office & SMS: 800-309-7830
+Fax: 727-205-0255",yes,yes,no
+Christian,D'Urso,TradeWinds Wealth Management,TWWM,"Christian D'Urso
+Founder & Chief Investment Officer
+4380 S Macadam Ave, Suite 440
+Portland, OR 97239 
+www.TradeWindswm.com",yes,yes,no
+Paul,Spangler,TradeWinds Wealth Management,TWWM,"Paul Spangler
+Founder & Chief Investment Officer
+4380 S Macadam Ave, Suite 440
+Portland, OR 97239 
+www.TradeWindswm.com",yes,yes,no
+Ed,Smith,Valor Wealth Partners,VWP,"Edward C. Smith, CFP ®, MBA
+Office: (617) 648-2700
+ValorWealthPartners.com",yes,yes,no
+Walt,West,West Advisory Group,WAG,"Walt West
+8150 Perry Highway, Suite 208
+Pittsburgh, PA 15237
+
+(412) 847-2040
+info@westgrp.com",yes,yes,no

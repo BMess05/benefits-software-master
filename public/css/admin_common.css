@@ -1,0 +1,532 @@
+body {
+    font-family: Verdana, Tahoma, Arial, sans-serif;
+}
+a {
+    text-decoration: none !important;
+}
+input {
+    padding-left: 3px;
+}
+label.error-help-block {
+    color: red;
+    width: 100%;
+    font-weight: 500;
+    font-size: 13px;
+}
+.admin_top_menu .navbar-nav li a {
+    padding: 10px 9px;
+}
+thead.case_list_head ul.pagination li.page-item span {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    margin-right: 5px;
+    color: #fff;
+}
+
+thead.case_list_head ul.pagination li.page-item a {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    margin-right: 5px;
+    color: #fff;
+}
+.admin_navbar {
+    background: #fff;
+    border-bottom: 2px solid #e2e2e2;
+    margin: 0;
+}
+.navbar-header a img {
+    height: 67px;
+}
+.admin_top_menu {
+    background: #686868;
+    border-color: #686868;
+    border-radius: 0;
+}
+.admin_top_menu a {
+    color: #fff !important;
+}
+
+.edit_advisor_form {
+    margin-top: 2%;
+    text-align: right !important;
+}
+.suppress_confidential_chk {
+    float: left;
+}
+.input_titlelook {
+    margin-bottom: 20px;
+}
+/* dashboard listing css starts */
+
+.listing-title {
+    background: #336699;
+}
+.listing-title p.text-left {
+    display: inline-block;
+    color: #fff;
+    font-weight: bold;
+    margin: 0;
+}
+.listing-title p.text-right {
+    float: right;
+    margin: 0;
+}
+.listing-title a {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+}
+.listing-title p {
+    padding: 7px;
+}
+.btn_search_case {
+    margin-top: 23px;
+}
+.btn_search_case_clear {
+    margin-top: 23px;
+}
+.case_search_wrap {
+    padding: 15px;
+    background: #e2e2e2;
+}
+thead.case_list_head {
+    background: #5D7B9D;
+}
+thead.case_list_head tr th {
+    border: 0;
+    color: #fff;
+}
+thead.case_list_head tr th a {
+    color: #fff;
+    text-decoration: none;
+}
+.user_active {
+    width: 45px;
+    height: 25px;
+    margin-top: 25px;
+}
+.btn_search_users {
+    margin-top: -3px;
+}
+.table_wrap table {
+    border-top: 0;
+}
+
+.configuration_title {
+    background: #dedede;
+    padding: 5px;
+    font-weight: bold;
+    color: #686868;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.form_section_wrap {
+    text-align: right;
+}
+
+.form_section_wrap label {
+    color: #888888;
+}
+input.config_input {
+    width: 85px;
+    padding-left: 3px;
+}
+
+.admin_top_menu ul li a {
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0px;
+}
+.rate_of_return_title {
+    margin-right: 90px;
+}
+.btns-configurations {
+    background: #336699;
+    color: #fff;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 2px 5px;
+}
+
+.btns-remove {
+    background: #336699 !important;
+    color: #fff;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 2px 5px;
+    cursor: pointer;
+}
+.btns-remove:hover {
+    background: #336699 !important;
+    color: #fff !important;
+    cursor: pointer;
+}
+/* dashboard listing css ends */
+
+/* login layout starts */
+.form_title {
+    background: #204d74;
+    color: #fff;
+    font-weight: bold;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.form_layout {
+    width: max-content;
+    padding: 0px;
+    border: 1px solid #e2e2e2;
+}
+.form_inputs {
+    margin: 6px;
+}
+.form_lower {
+    background: #e2e2e2;
+    padding: 6px;
+}
+.form_lower p {
+    padding-top: 14px;
+    margin: 0;
+}
+.btn-login {
+    background: #204d74;
+    color: #fff !important;
+    font-weight: bold;
+    padding: 3px 5px;
+    border-radius: 0px;
+}
+/* login layout ends */
+
+/* Employee details css starts */
+
+.employee_details_wrap {
+    margin-top: 20px;
+}
+.employee_detail_menu ul {
+    list-style: none;
+    padding-left: 10px;
+}
+.employee_detail_menu ul li {
+    padding: 5px 10px;
+    border-right: 1px solid #666666;
+}
+.employee_detail_menu ul li.active {
+    border-right: 0;
+    border-top: 1px solid #666666;
+    border-bottom: 1px solid #666666;
+}
+.employee_detail_menu ul li.active a {
+    color: #000;
+}
+.no_data_found {
+    padding: 8px 5px;
+    background: #ccc;
+}
+.admin_top_menu {
+    min-height: 25px;
+    height: 25px;
+}
+.admin_top_menu .navbar-nav li a {
+    padding-top: 2px !important;
+}
+
+.label_div {
+    text-align: right;
+    color: #8f8f8f;
+}
+.in_gap {
+    padding: 5px;
+    margin: 0;
+}
+.info_heading {
+    background: #999;
+}
+.info_heading p {
+    padding: 5px;
+    color: #fff;
+    font-weight: 600;
+}
+.child_listing_title p.text-left {
+    display: inline-block;
+    color: #fff;
+    font-weight: bold;
+    margin: 0;
+}
+.child_listing_title p.text-right {
+    float: right;
+    margin: 0;
+}
+.child_listing_title a {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+}
+.child_listing_title p {
+    padding: 7px;
+}
+.children_listing_wrap {
+    margin-bottom: 20px;
+}
+
+.lower_gap_20 {
+    margin-bottom: 20px;
+}
+
+.important_link {
+    margin-bottom: 20px;
+}
+
+.grid_label + input {
+    width: 120px;
+    margin: 0 auto;
+}
+.basic_info_form_wrap {
+    margin-bottom: 20px;
+}
+.btns-configurations:hover {
+    color: #fff;
+    cursor: unset;
+}
+.col100 {
+    width: 100%;
+}
+.col20 {
+    width: 18%;
+    display: inline-block;
+    padding-left: 20px;
+}
+
+.row.in_gap.border_layout {
+    border: 1px solid #666;
+    padding: 3px;
+    margin: 0;
+    border-top: 0px;
+    padding-top: 0px;
+}
+.border_layout .listing-title {
+    margin-top: 20px;
+}
+.no_data_found {
+    margin-bottom: 15px;
+}
+label.summary_label {
+    font-weight: 400;
+    width: 5%;
+}
+label.summary_desc {
+    font-weight: 400;
+    width: 93%;
+    clear: both;
+    vertical-align: top;
+}
+.summary_block_wrap {
+    margin-bottom: 20px;
+}
+
+.scenarios_link ul.nav.nav-pills li a {
+    padding: 0;
+    color: #fff;
+    border-radius: 0;
+}
+.scenarios_link ul.nav.nav-pills li a:hover {
+    color: #fff;
+    background-color: #336699;
+    border-radius: 0;
+}
+.scenarios_link ul.nav.nav-pills li a:focus {
+    color: #fff;
+    background-color: #336699;
+    border-radius: 0;
+}
+.scenarios_link ul.nav.nav-pills li.active a {
+    color: #000;
+    background-color: #fff;
+    border-radius: 0;
+}
+.scenarios_link ul.nav.nav-pills li {
+    padding: 3px 4px;
+    border: 1px solid #336699;
+    background-color: #336699;
+    color: #fff;
+    margin-right: 0px;
+    text-decoration: none;
+    border-bottom: none;
+}
+.scenarios_link ul.nav.nav-pills li.active {
+    border: 1px solid #336699;
+    border-bottom: 0px;
+    background-color: #fff;
+    color: #000;
+}
+.scenarios_link {
+    margin-bottom: 6px;
+    border-bottom: 1px solid #336699;
+    padding-left: 10px;
+}
+tfoot.case_list_foot {
+    background: #5D7B9D;
+    color: #fff !important;
+}
+
+select.report_notes_dropdown {
+    width: 300px;
+    font-weight: 600;
+    font-size: 13px;
+    padding: 5px;
+}
+.report_type_search_wrap {
+    background: #c4c4c4;
+    padding: 5px;
+    font-weight: bold;
+    color: #686868;
+}
+select.advisor_dropdown {
+    width: 184px;
+}
+.add_emp_wrap {
+    padding: 15px;
+}
+.info_heading.child_listing_title span {
+    float: left;
+}
+
+span.help-block.error-help-block, .error {
+    display: inline;
+    color: #cc2222;
+}
+
+.projections_list {
+    display: none;
+}
+
+.projectIncreases {
+    color: #333;
+    background-color: #e6e6e6;
+    border-color: #adadad;
+}
+
+.warnings_wrap {
+    color: #cc2222;
+}
+
+/* span.help-block.error-help-block:after {
+    content: ')';
+}
+
+span.help-block.error-help-block:before {
+    content: '(';
+} */
+
+/* Employee details ends */
+div#sortTable_length, div#sortTable_info, div#sortTable_filter {
+    display: none !important;
+}
+
+ul.pagination {
+    margin-bottom: -6px !important;
+}
+
+span.mra_emp {
+    font-weight: bold;
+    border: 1px solid #fff;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px #aaaaaa;
+}
+
+.error-help-block {
+    padding-left: 25px !important;
+}
+
+.text-center {
+    text-align: center;
+}
+.contribution_loan_head {
+    padding: 3px;
+}
+.calcEarliestR:focus {
+    color: #fff;
+    outline: 0px;
+}
+
+/*******************************
+* ACCORDION WITH TOGGLE ICONS
+* Does not work properly if "in" is added after "collapse".
+*******************************/
+.panel-group .panel {
+    border-radius: 0;
+    box-shadow: none;
+    border-color: #EEEEEE;
+}
+
+.panel-default > .panel-heading {
+    padding: 0;
+    border-radius: 0;
+    color: #212121;
+    background-color: #FAFAFA;
+    border-color: #EEEEEE;
+}
+
+.panel-title {
+    font-size: 14px;
+}
+
+.panel-title > a {
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.more-less {
+    float: right;
+    color: #212121;
+}
+
+.panel-default > .panel-heading + .panel-collapse > .panel-body {
+    border-top-color: #EEEEEE;
+}
+
+/* ----- v CAN BE DELETED v ----- */
+
+.demo {
+padding-top: 60px;
+padding-bottom: 110px;
+}
+
+.demo-footer {
+position: fixed;
+bottom: 0;
+width: 100%;
+padding: 15px;
+background-color: #212121;
+text-align: center;
+}
+
+.demo-footer > a {
+text-decoration: none;
+font-weight: bold;
+font-size: 14px;
+color: #fff;
+}
+p.bg_blue {
+    background: #336699;
+    margin: 0;
+}
+strong.text-white {
+    color: #fff;
+    padding: 8px;
+}
+.text-bold {
+    font-weight: bold;
+    text-decoration: underline;
+}
+.pb-16 {
+    padding-bottom: 16px;
+}
+.block-border-right {
+    border-right: 1px solid #ddd;
+}
